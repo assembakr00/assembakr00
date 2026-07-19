@@ -52,11 +52,16 @@ I am a passionate, self-driven developer focused on leveraging advanced AI workf
 
 ---
 
-## 📈 GitHub Stats
+---
+
+## 📈 Contribution Graph
 
 <p align="left">
-<img src="https://github-readme-stats-fast.vercel.app/api?username=assembakr00&show_icons=true&theme=dark&hide_border=true&count_private=true" alt="GitHub Stats" width="400"/>
-<img src="https://github-readme-stats-fast.vercel.app/api/top-langs/?username=assembakr00&layout=compact&theme=dark&hide_border=true&count_private=true" alt="Top Languages" width="350"/>
+  <img src="https://ghchart.rshah.org/assembakr00" alt="assembakr00's GitHub Contributions Chart" />
+</p>
+
+<p align="center">
+  💡 <i>“Discipline beats talent when talent doesn’t have discipline.”</i>
 </p>
 
 💡 *“Discipline beats talent when talent doesn’t have discipline.”*
