@@ -1,13 +1,14 @@
-# Hi there, I'm a Backend & AI Developer 🚀
+# Hi there, I'm a Backend & AI-Driven Developer 🚀
 
-I am a passionate, self-driven developer focused on building scalable backend architectures, designing robust databases, and exploring artificial intelligence systems. I love turning complex logic into clean, efficient code.
+I am a passionate, self-driven developer focused on leveraging advanced AI workflows to design robust databases, build scalable backend architectures, and explore intelligent automation. I love using AI to accelerate my development while deeply mastering core engineering principles.
 
 ## 💫 About Me
 
-- 🛠️ Currently deep-diving into **Backend Engineering** and **AI Architectures**.
-- 📈 Learning fast and building consistently—focusing on mastering core computer science principles, APIs, and database design.
-- 🌍 Multilingual learner with a global mindset, aiming to transition into international tech ecosystems (with a strong focus on Germany).
-- 🥋 Outside of tech, I'm a competitive athlete. The discipline, focus, and grit I use in sports are the exact same traits I bring to my code.
+- 🤖 **AI-Driven Engineering:** Heavy AI user coder, using modern LLMs and open-source AI playground architectures to rapidly prototype and build workflows.
+- 🛠️ Deep-diving into **Backend Engineering** and scalable software design.
+- 📈 Focusing on mastering core database structures, advanced API logic, and data optimization.
+- 🌍 Multilingual learner with a global mindset, aiming to transition into international tech ecosystems.
+- 🎯 Balancing technical development with multi-competitive sports, applying the same consistency and discipline to my code and career.
 
 ---
 
@@ -17,13 +18,20 @@ I am a passionate, self-driven developer focused on building scalable backend ar
 ![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
 ![Go](https://img.shields.io/badge/Go-00ADD8?style=flat-square&logo=go&logoColor=white)
 
-### 🗄️ Databases & Architecture
+### 🗄️ Databases & Data Types
 ![SQL](https://img.shields.io/badge/SQL-CC292B?style=flat-square&logo=postgresql&logoColor=white)
+- 🗂️ **Relational & Semi-Structured Data:** Designing schemas using traditional SQL alongside `JSON` and `JSONB` for optimized, indexed, and dynamic data storage.
+
+### 📐 Git & Automation
 ![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white)
 ![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white)
+- ⚙️ **GitHub Actions:** Automating workflows and testing pipelines.
 
-### 🤖 AI & Local LLM Environments
-- Experience working with local LLMs and open-source AI playground architectures to build smart workflows.
+### 🎨 Frontend Development (WIP)
+![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=css3&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
+- 📐 **Tailwind CSS:** actively learning to rapidly build modern, responsive layouts.
 
 ---
 
@@ -38,16 +46,15 @@ I am a passionate, self-driven developer focused on building scalable backend ar
 ## 🎯 Long-Term Goals
 
 - Build a self-sustaining tech startup.
-- Deepen my knowledge in Robotics, Data Analysis, and Artificial Intelligence.
-- Relocate to Germany to scale my business network and collaborate with global tech innovators.
-
+- Deepen my knowledge in Robotics, Data Analysis, Artificial Intelligence, and Web Dev.
+  
 ---
 
 ## 📈 GitHub Stats
 
 <p align="left">
-  <img src="https://github-readme-stats.vercel.app/api?username=assembakr00&show_icons=true&theme=dark&hide_border=true" alt="GitHub Stats" width="400"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=assembakr00&layout=compact&theme=dark&hide_border=true" alt="Top Languages" width="350"/>
+<img src="https://github-readme-stats-fast.vercel.app/api?username=assembakr00&show_icons=true&theme=dark&hide_border=true" alt="GitHub Stats" width="400"/>
+<img src="https://github-readme-stats-fast.vercel.app/api/top-langs/?username=assembakr00&layout=compact&theme=dark&hide_border=true" alt="Top Languages" width="350"/>
 </p>
 
 💡 *“Discipline beats talent when talent doesn’t have discipline.”*
