@@ -1,6 +1,6 @@
 # Hi there, I'm a Backend & AI-Driven Developer 🚀
 
-I am a passionate, self-driven developer focused on leveraging advanced AI workflows to design robust databases, build scalable backend architectures, and explore intelligent automation. I love using AI to accelerate my development while deeply mastering core engineering principles.
+I am a passionate, 14 yr old self-driven & self taught developer focused on leveraging advanced AI workflows to design robust databases, build scalable backend architectures, and explore intelligent automation. I love using AI to accelerate my development while deeply mastering core engineering principles.
 
 ## 💫 About Me
 
