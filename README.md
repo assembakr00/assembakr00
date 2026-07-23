@@ -50,8 +50,6 @@ I am a passionate, 14 yr old self-driven & self taught developer focused on leve
   
 ---
 
----
-
 ## 📈 Contribution Graph
 
 <p align="left">
