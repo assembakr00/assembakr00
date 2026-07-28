@@ -40,6 +40,7 @@ I am a passionate, 14 yr old self-driven & self taught developer focused on leve
 - **Independent Software Projects:** Developing full-stack and backend applications from scratch to solve real-world problems.
 - **Foundational Certification:** Actively mastering advanced Git workflows and cloud ecosystem fundamentals.
 - **Data & Automation:** Building robust APIs and learning how to efficiently structure relational databases.
+- **learning: new langs and concepts and getting exp.
 
 ---
 
@@ -57,5 +58,8 @@ I am a passionate, 14 yr old self-driven & self taught developer focused on leve
 </p>
 
 <p align="center">
+## Boot.Dev
+[Boot.dev Introduction to Python Course certificate](https://qvault-webapp-dynamic-assets.storage.googleapis.com/certificates/807d0c76-c197-47a0-ab0f-f073294a10a3.jpeg?v=1785273974)](https://www.boot.dev/certificates/807d0c76-c197-47a0-ab0f-f073294a10a3)
+  
   💡 <i>“Discipline beats talent when talent doesn’t have discipline.”</i>
 </p>
