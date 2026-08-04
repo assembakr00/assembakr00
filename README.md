@@ -58,8 +58,6 @@ I am a passionate, 14 yr old self-driven & self taught developer focused on leve
 </p>
 
 <p align="center">
-## Boot.Dev
-[Boot.dev Introduction to Python Course certificate](https://qvault-webapp-dynamic-assets.storage.googleapis.com/certificates/807d0c76-c197-47a0-ab0f-f073294a10a3.jpeg?v=1785273974)](https://www.boot.dev/certificates/807d0c76-c197-47a0-ab0f-f073294a10a3)
-  
+
   💡 <i>“Discipline beats talent when talent doesn’t have discipline.”</i>
 </p>
