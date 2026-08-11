@@ -4,7 +4,7 @@ I am a passionate, 14 yr old self-driven & self taught developer focused on leve
 
 ## 💫 About Me
 
-- 🤖 **AI-Driven Engineering:** Heavy AI user coder, using modern LLMs and open-source AI playground architectures to rapidly prototype and build workflows.
+- 🤖 **AI-Driven Engineering:** AI user coder, using modern LLMs and open-source AI playground architectures to rapidly prototype and build workflows.
 - 🛠️ Deep-diving into **Backend Engineering** and scalable software design.
 - 📈 Focusing on mastering core database structures, advanced API logic, and data optimization.
 - 🌍 Multilingual learner with a global mindset, aiming to transition into international tech ecosystems.
@@ -31,14 +31,14 @@ I am a passionate, 14 yr old self-driven & self taught developer focused on leve
 ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=html5&logoColor=white)
 ![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=css3&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
-- 📐 **Tailwind CSS:** actively learning to rapidly build modern, responsive layouts.
+- 📐 **Tailwind CSS:** actively learning to build modern, responsive layouts.
 
 ---
 
 ## 📊 What I'm Working On
 
 - **Independent Software Projects:** Developing full-stack and backend applications from scratch to solve real-world problems.
-- **Foundational Certification:** Actively mastering advanced Git workflows and cloud ecosystem fundamentals.
+- **Foundational Certification:** Actively mastering advanced Git workflows to implement them in my work and cloud ecosystem fundamentals.
 - **Data & Automation:** Building robust APIs and learning how to efficiently structure relational databases.
 - **learning: new langs and concepts and getting exp.
 
@@ -53,7 +53,7 @@ I am a passionate, 14 yr old self-driven & self taught developer focused on leve
 
 ## 📈 Contribution Graph
 
-<p align="left">
+<p align="center">
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=assembakr00&theme=github-dark-teal&bg_color=0d1117&hide_border=true" alt="assembakr00's Activity Graph" width="100%" />
 </p>
 <p align="center">
@@ -62,6 +62,9 @@ I am a passionate, 14 yr old self-driven & self taught developer focused on leve
 
 ## Boot.Dev Account
 
+<p align="center">
+  <img src="https://api.boot.dev/v1/users/public/60c56dab-68ea-42a1-b5ee-22886a17a4f1/thumbnail" >
+</p>
 - https://www.boot.dev/u/heyman1110
 
 ---
