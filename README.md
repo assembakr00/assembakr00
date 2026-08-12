@@ -69,5 +69,11 @@ I am a passionate, 14 yr old self-driven & self taught developer focused on leve
 
 ---
 
+## Personal Site
+
+- https://assembakr00.github.io/Personal-Site
+
+---
+
   💡 <i>“Discipline beats talent when talent doesn’t have discipline.”</i>
 </p>
