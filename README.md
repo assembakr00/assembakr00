@@ -7,6 +7,7 @@ I am a passionate, 14 yr old self-driven & self taught developer focused on leve
 - 🤖 **AI-Driven Engineering:** AI user coder, using modern LLMs and open-source AI playground architectures to rapidly prototype and build workflows.
 - 🛠️ Deep-diving into **Backend Engineering** and scalable software design.
 - 📈 Focusing on mastering core database structures, advanced API logic, and data optimization.
+- 🛠️ **Aspiring Game Dev:** learning game dev alongside web dev and other things using godot4(main) and unity
 - 🌍 Multilingual learner with a global mindset, aiming to transition into international tech ecosystems.
 - 🎯 Balancing technical development with multi-competitive sports, applying the same consistency and discipline to my code and career.
 
@@ -60,18 +61,24 @@ I am a passionate, 14 yr old self-driven & self taught developer focused on leve
 
 ---
 
-## Boot.Dev Account
+## Accounts
+
+### Boot.Dev Account
 
 <p align="center">
   <img src="https://api.boot.dev/v1/users/public/60c56dab-68ea-42a1-b5ee-22886a17a4f1/thumbnail" >
 </p>
+
 - https://www.boot.dev/u/heyman1110
 
----
 
-## Personal Site
+### Personal Site
 
 - https://assembakr00.github.io/Personal-Site
+
+### Itch.io Account
+
+- https://ctrl-z-assem.itch.io/
 
 ---
 
