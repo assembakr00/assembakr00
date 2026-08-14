@@ -6,7 +6,7 @@ I am a passionate, 14 yr old self-driven & self-taught developer focused on leve
 
 ## 💫 About Me
 
-- 🤖 **AI-Driven Engineering:** AI user coder, using modern LLMs and open-source AI playground architectures to rapidly prototype and build workflows.
+- 🤖 **AI-Driven Engineering:** AI user coder, using modern LLMs and open-source AI playground architectures to rapidly prototype and build workflows and not a vibe coder btw.
 - 🛠️ Deep-diving into **Backend Engineering** and scalable software design.
 - 📈 Focusing on mastering core database structures, advanced API logic, and data optimization.
 - 🛠️ **Aspiring Game Dev:** Learning game dev alongside web dev and other things using **Godot 4** (main) and **Unity**.
