@@ -6,9 +6,9 @@ Backend & AI-driven developer, self-taught, focused on scalable backend architec
 
 ## 🛠️ Featured Projects
 
-- **[CraftCV](https://github.com/assembakr00/CraftCV)** – Browser-based CV/resume builder with a clean JS-driven UI for quickly customizing and exporting professional resumes. ⭐1 · MIT
+- **[CraftCV](https://github.com/assembakr00/CraftCV)** – Browser-based CV/resume builder with a clean JS-driven UI for quickly customizing and exporting professional resumes.
 - **[Kinetix:Form](https://github.com/assembakr00/kinteix)** – Developer infrastructure micro-SaaS: a backend form-handling engine.
-- **[SpectraDrop](https://github.com/assembakr00/SpectraDrop)** – Minimalist frontend tool that extracts Pantone-style color palettes from any image, entirely client-side, zero backend, zero tracking. MIT
+- **[SpectraDrop](https://github.com/assembakr00/SpectraDrop)** – Minimalist frontend tool that extracts Pantone-style color palettes from any image, entirely client-side, zero backend, zero tracking.
 - **[Trust Me Bro](https://github.com/assembakr00/trust-me-bro)** – 2D platformer built in Godot 4, live on itch.io.
 - **[Tick, Tack, Tread](https://ctrl-z-assem.itch.io)** – GMTK Game Jam 2026 solo entry — clock digits double as flickering platforms.
 - **[PixelPulse-Generator](https://github.com/assembakr00/PixelPulse-Generator)** – Responsive AI video-generator interface, vanilla HTML/CSS/JS with API integration and modular design.
