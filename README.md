@@ -57,6 +57,7 @@ I am a passionate, 14 yr old self-driven & self-taught developer focused on leve
 
 - Build a self-sustaining tech startup.
 - Deepen my knowledge in Robotics, Data Analysis, Artificial Intelligence, and Web Dev.
+- Enjoy Life ofc, i mean its short so why not
 
 ---
 
