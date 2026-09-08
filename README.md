@@ -1,63 +1,42 @@
-# Hi there, I'm a Backend & AI-Driven Developer 🚀
+# Hi there, I'm Assem 🚀
 
-I am a passionate, 14 yr old self-driven & self-taught developer focused on leveraging advanced AI workflows to design robust databases, build scalable backend architectures, and explore intelligent automation. I love using AI to accelerate my development while deeply mastering core engineering principles.
+Backend & AI-driven developer, self-taught, focused on scalable backend architecture, clean databases, and intelligent automation.
+
+---
+
+## 🛠️ Featured Projects
+
+- **[CraftCV](https://github.com/assembakr00/CraftCV)** – Browser-based CV/resume builder with a clean JS-driven UI for quickly customizing and exporting professional resumes. ⭐1 · MIT
+- **[Kinetix:Form](https://github.com/assembakr00/kinteix)** – Developer infrastructure micro-SaaS: a backend form-handling engine.
+- **[SpectraDrop](https://github.com/assembakr00/SpectraDrop)** – Minimalist frontend tool that extracts Pantone-style color palettes from any image, entirely client-side, zero backend, zero tracking. MIT
+- **[Trust Me Bro](https://github.com/assembakr00/trust-me-bro)** – 2D platformer built in Godot 4, live on itch.io.
+- **[Tick, Tack, Tread](https://ctrl-z-assem.itch.io)** – GMTK Game Jam 2026 solo entry — clock digits double as flickering platforms.
+- **[PixelPulse-Generator](https://github.com/assembakr00/PixelPulse-Generator)** – Responsive AI video-generator interface, vanilla HTML/CSS/JS with API integration and modular design.
 
 ---
 
 ## 💫 About Me
 
-- 🤖 **AI-Driven Engineering:** AI user coder, using modern LLMs and open-source AI playground architectures to rapidly prototype and build workflows and not a vibe coder btw.
-- 🛠️ Deep-diving into **Backend Engineering** and scalable software design.
-- 📈 Focusing on mastering core database structures, advanced API logic, and data optimization.
-- 🛠️ **Aspiring Game Dev:** Learning game dev alongside web dev and other things using **Godot 4** (main) and **Unity**.
-- 🌍 Multilingual learner with a global mindset, aiming to transition into international tech ecosystems.
-- 🎯 Balancing technical development with multi-competitive sports, applying the same consistency and discipline to my code and career.
+- 🤖 I use LLMs and agentic workflows to move faster on prototyping — but I still write and understand every layer of the backend myself. AI speeds up the loop, it doesn't replace the engineering.
+- 🛠️ Currently deep in backend engineering: database schema design, API structure, and figuring out how to make small SaaS tools (like Kinetix:Form) actually production-ready, not just demos.
+- 🧠 Curious about AI/ML beyond just using APIs — I've built basic detection models and run local setups like Ollama, and I'm working toward the math (calculus, linear algebra) I'm missing to go deeper.
+- 🎮 Game dev is where I get to see the whole stack come together fast — Godot 4 is my main engine, shipping small jam games (GMTK 2026) end-to-end solo.
+- 🎯 I train in competitive sports alongside all this — the same discipline that gets me through a tournament gets me through debugging at 1am.
+- 🌍 Based in Egypt, not going the college route — building my own products is the actual goal, not landing a job somewhere.
 
 ---
 
-## 🚀 Tech Stack & Tools
+## 🚀 Tech Stack
 
-### 💻 Backend & Core Languages
 ![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
 ![Go](https://img.shields.io/badge/Go-00ADD8?style=flat-square&logo=go&logoColor=white)
 ![Godot Engine](https://img.shields.io/badge/Godot_Engine-478CBF?style=flat-square&logo=godot-engine&logoColor=white)
-![Linux](https://img.shields.io/badge/Linux-FCC624?style=flat-square&logo=linux&logoColor=black)
-![Bash](https://img.shields.io/badge/Bash-4EAA25?style=flat-square&logo=gnu-bash&logoColor=white)
-
-### 🗄️ Databases & Data Types
 ![SQL](https://img.shields.io/badge/SQL-CC292B?style=flat-square&logo=postgresql&logoColor=white)
-![JSON](https://img.shields.io/badge/JSON-000000?style=flat-square&logo=json&logoColor=white)
-- 🗂️ **Relational & Semi-Structured Data:** Designing schemas using traditional SQL alongside `JSON` and `JSONB` for optimized, indexed, and dynamic data storage.
-
-### 📐 Git & Automation
-![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white)
-![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white)
-![GitHub Actions](https://img.shields.io/badge/GitHub_Actions-2088FF?style=flat-square&logo=github-actions&logoColor=white)
-- ⚙️ **GitHub Actions:** Automating workflows and testing pipelines.
-
-### 🎨 Frontend Development (WIP)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
 ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=html5&logoColor=white)
 ![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=css3&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
-![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=flat-square&logo=tailwind-css&logoColor=white)
-- 📐 **Tailwind CSS:** Actively learning to build modern, responsive layouts.
-
----
-
-## 📊 What I'm Working On
-
-- **Independent Software Projects:** Developing full-stack and backend applications from scratch to solve real-world problems.
-- **Foundational Certification:** Actively mastering advanced Git workflows to implement them in my work and cloud ecosystem fundamentals.
-- **Data & Automation:** Building robust APIs and learning how to efficiently structure relational databases.
-- **Continuous Learning:** Exploring new languages, advanced concepts, and gaining hands-on engineering experience.
-
----
-
-## 🎯 Long-Term Goals
-
-- Build a self-sustaining tech startup.
-- Deepen my knowledge in Robotics, Data Analysis, Artificial Intelligence, and Web Dev.
-- Enjoy Life ofc, i mean its short so why not
+![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white)
+![Linux](https://img.shields.io/badge/Linux-FCC624?style=flat-square&logo=linux&logoColor=black)
 
 ---
 
@@ -69,22 +48,15 @@ I am a passionate, 14 yr old self-driven & self-taught developer focused on leve
 
 ---
 
-## 🌐 Accounts & Platforms
-
-### Boot.Dev Profile
-
-<p align="center">
-  <a href="https://www.boot.dev/u/heyman1110">
-    <img src="https://api.boot.dev/v1/users/public/60c56dab-68ea-42a1-b5ee-22886a17a4f1/thumbnail" alt="Boot.dev Badge" />
-  </a>
-</p>
+## 🌐 Links
 
 - 🔗 **Boot.dev:** [boot.dev/u/heyman1110](https://www.boot.dev/u/heyman1110)
-- 🌐 **Personal Portfolio:** [assembakr00.github.io/Personal-Site](https://assembakr00.github.io/Personal-Site)
+- 🌐 **Portfolio:** [assembakr00.github.io/Personal-Site](https://assembakr00.github.io/Personal-Site)
 - 🎮 **Itch.io:** [ctrl-z-assem.itch.io](https://ctrl-z-assem.itch.io/)
 
 ---
 
 <p align="center">
-  💡 <i>“Discipline beats talent when talent doesn’t have discipline.”</i>
+  💡 <i>"Discipline beats talent when talent doesn't have discipline."</i><br>
+  🌤️ <i>"I hope I enjoy life — because why not, it's short."</i>
 </p>
