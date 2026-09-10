@@ -28,7 +28,6 @@ Backend & AI-driven developer, self-taught, focused on scalable backend architec
 ## 🚀 Tech Stack
 
 ![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
-![Go](https://img.shields.io/badge/Go-00ADD8?style=flat-square&logo=go&logoColor=white)
 ![Godot Engine](https://img.shields.io/badge/Godot_Engine-478CBF?style=flat-square&logo=godot-engine&logoColor=white)
 ![SQL](https://img.shields.io/badge/SQL-CC292B?style=flat-square&logo=postgresql&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
