@@ -1,6 +1,6 @@
 # Hi there, I'm Assem 🚀
 
-Backend & AI-driven developer, self-taught, focused on scalable backend architecture, clean databases, and intelligent automation  also wanna learn full-stack and dev-ops.
+Backend & AI-driven developer, self-taught, focused on scalable backend architecture, clean databases, and intelligent automation, also wanna learn full-stack and dev-ops.
 
 ---
 
@@ -55,6 +55,5 @@ Backend & AI-driven developer, self-taught, focused on scalable backend architec
 ---
 
 <p align="center">
-  💡 <i>"Discipline beats talent when talent doesn't have discipline."</i><br>
-  🌤️ <i>"I hope I enjoy life — because why not, it's short."</i>
+   <i>"Shot for the sun and you will end up with the stars"</i>
 </p>
